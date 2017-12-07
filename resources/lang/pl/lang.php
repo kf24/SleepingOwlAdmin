@@ -15,6 +15,7 @@ return [
     'model'=>
         [
             'edit'=>'Edycja',
+            'create'=>'Nowy',
         ],
     'ckeditor' => [
         'upload'        => [
